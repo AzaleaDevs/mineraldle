@@ -604,6 +604,13 @@ td.arrow-down .flip-card-back::before {
   text-align: center;
 }
 
+@media (min-width: 600px) {
+  .modal-content {
+    width: 80%;
+    max-width: 600px;
+  }
+}
+
 .modal-content img {
   width: 100%;
   height: auto;
