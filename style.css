@@ -182,7 +182,8 @@ input {
     padding: 0.5em 1em;
     box-shadow: none;
     border-bottom: 4px solid white;
-    font-size: clamp(16px, 2.5vw, 34px);
+    font-size: 200px;
+    color: red
   }
 }
 
