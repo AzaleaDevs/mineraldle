@@ -182,9 +182,8 @@ input {
     padding: 0.5em 1em;
     box-shadow: none;
     border-bottom: 4px solid white;
-    font-size: 200px !important;
-    color: red;
-    background-color: #00c853 !important  ;
+    font-size: 25px !important;
+   
   }
 }
 
