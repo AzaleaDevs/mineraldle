@@ -17,10 +17,7 @@ body {
 }
 
 
-.test{
-   background-color: red ;
-   font-size: 50px;
-}
+
 
 
 h1 {
@@ -732,6 +729,11 @@ th {
 
 #legend-list li {
   margin-bottom: 0.5em;
+}
+
+.test{
+   background-color: red !important;
+   font-size: 50px !important;
 }
 
 }
